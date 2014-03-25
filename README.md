@@ -1,5 +1,4 @@
-#How-to-improve-your-.NET-VoIP-softphone-by-creating-call-recording-feature
-==========================================================================
+#How to improve your .NET VoIP softphone by creating call recording feature in C#
 
 **It describes how to extend your softphone by building call recording funcionality in C#. You can get to know how to record and store your phone conversations in a .wav file.**
 
@@ -14,7 +13,7 @@ Before describing the project I thought I will give an example application for t
 
 You can download the example application from this link:
 
-([http://voip-sip-sdk.com/p_136-c-sharp-windows-forms-softphone-voip.html])
+(http://voip-sip-sdk.com/p_136-c-sharp-windows-forms-softphone-voip.html)
 
 ##Implementing the call recording feature
 
