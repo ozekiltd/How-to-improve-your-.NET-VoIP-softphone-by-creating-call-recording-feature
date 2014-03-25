@@ -13,7 +13,7 @@ Before describing the project I thought I will give an example application for t
 
 You can download the example application from this link:
 
-(http://voip-sip-sdk.com/p_136-c-sharp-windows-forms-softphone-voip.html)
+http://voip-sip-sdk.com/p_136-c-sharp-windows-forms-softphone-voip.html
 
 ##Implementing the call recording feature
 
