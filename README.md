@@ -177,6 +177,6 @@ During this article you could learn how to extend your softphone with call recor
 
 ##References
 
-* You can download the free trial of Microsoft Visual Studio from this site: ([http://msdn.microsoft.com/en-us/vstudio/default.aspx])
-* You can download the necessary .Net Framework 3.5 from the following page: ([http://www.microsoft.com/en-us/download/details.aspx?id=21])
-* Finally you can get the Ozeki VoIP SIP SDK from: ([http://www.voip-sip-sdk.com/])
+* You can download the free trial of Microsoft Visual Studio from this site: http://msdn.microsoft.com/en-us/vstudio/default.aspx
+* You can download the necessary .Net Framework 3.5 from the following page: http://www.microsoft.com/en-us/download/details.aspx?id=21
+* Finally you can get the Ozeki VoIP SIP SDK from: http://www.voip-sip-sdk.com/
